@@ -33,7 +33,7 @@ Return predicted probabilities for each row of the test sets as a DataFrame with
 
 #### Function Skeleton
 ```python
-def train_model_redacted_return_scores(train_df_path, test_df_path)  -> pd.Dataframe:
+def train_model_redacted_return_scores(train_df_path, test_df_path) -> pd.Dataframe:
     test_scores = pd.DataFrame()
     return test_scores
 ```
